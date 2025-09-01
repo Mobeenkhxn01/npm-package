@@ -24,5 +24,11 @@
     "typescript",
     "shadcn",
     "google"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mobeenkhxn01/mobeen-auth.git"
+  },
+  "author": "Mobeen Khan"
+
 }
