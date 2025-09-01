@@ -1,0 +1,28 @@
+{
+  "name": "mobeen-auth",
+  "version": "1.0.1",
+  "description": "Scaffold Auth.js + Prisma for Next.js (TypeScript, shadcn, Google, credentials)",
+  "main": "index.js",
+  "bin": {
+    "mobeen-auth": "index.js"
+  },
+  "type": "commonjs",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "templates/**",
+    "package.json"
+  ],
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  },
+  "keywords": [
+    "nextjs",
+    "authjs",
+    "next-auth",
+    "prisma",
+    "typescript",
+    "shadcn",
+    "google"
+  ]
+}
